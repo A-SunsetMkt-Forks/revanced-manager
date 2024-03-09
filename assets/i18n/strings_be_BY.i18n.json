@@ -66,9 +66,9 @@
   "patcherView": {
     "widgetTitle": "Праграма выпраўлення",
     "patchButton": "Выправіць",
-    "armv7WarningDialogText": "Выпраўленне на працэсарах з архітэктурай ARMv7 пакуль не падтрымліваецца і можа прывесці да збою. Працягнуць?",
+    "armv7WarningDialogText": "Выпраўленне для прылад на ARMv7 пакуль не падтрымліваецца і можа прывесці да збою. Працягнуць?",
     "removedPatchesWarningDialogText": "Наступныя выпраўленні былі выдалены з моманту іх апошняга выкарыстання.\n\n${patches}\n\nУсё роўна працягнуць?",
-    "requiredOptionDialogText": "Некаторыя выпраўленні павінны быць зададзены."
+    "requiredOptionDialogText": "Неабходна задаць некаторыя параметры выпраўленняў."
   },
   "appSelectorCard": {
     "widgetTitle": "Выбраць праграму",
